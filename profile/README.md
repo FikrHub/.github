@@ -27,8 +27,10 @@ Fikrhub is a specialized platform designed to connect students, educators, and p
 At Fikrhub, we are committed to transforming the academic experience by fostering collaboration, knowledge sharing, and community engagement. We believe in creating a space where learning and innovation are collective endeavors, driven by the power of community.
 If you’re interested in learning more about Fikrhub or wish to collaborate, we’d love to hear from you.
 
-## Contact
+# Lunchtime
 
-For inquiries, collaborations, or to connect with us, please reach out at [contact@fikrhub.com](mailto:contact@fikrhub.com).
+The Project will start it's production life in 2025 may 18
+
+## stay tuned
 
 ---
