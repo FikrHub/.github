@@ -27,10 +27,8 @@ Fikrhub is a specialized platform designed to connect students, educators, and p
 At Fikrhub, we are committed to transforming the academic experience by fostering collaboration, knowledge sharing, and community engagement. We believe in creating a space where learning and innovation are collective endeavors, driven by the power of community.
 If you’re interested in learning more about Fikrhub or wish to collaborate, we’d love to hear from you.
 
-# Lunchtime
-
-The Project will start it's production life in 2025 may 18
-
-## stay tuned
+## Launch Date: May 18, 2025
+Stay tuned for the official release!
+### 🗓️ 🔔
 
 ---
